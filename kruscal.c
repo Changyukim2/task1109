@@ -114,4 +114,5 @@ int main(void) {
     kruscal(g);
     free(g);
     return 0;
+
 }
